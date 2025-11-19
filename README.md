@@ -36,7 +36,7 @@ Your star means a lot to us in developing this project! ⭐⭐⭐
 ```bash
 conda create -n qdlm python=3.10 -y
 conda activate qdlm
-git clone https://github.com/FelixMessi/QDLM
+git clone https://github.com/TheRealPilot/QDLM_KV.git
 pip install --upgrade qdlm 
 pip install -r requirements.txt
 pip install math-verify==0.8.0 antlr4-python3-runtime==4.11.0 sympy==1.14.0
